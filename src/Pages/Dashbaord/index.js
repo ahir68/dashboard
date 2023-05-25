@@ -217,4 +217,5 @@ function DashboardChart() {
     </Card>
   );
 }
+
 export default Dashboard;
